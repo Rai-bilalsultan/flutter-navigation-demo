@@ -1,10 +1,6 @@
-# flutter-navigation-demo
 # Flutter Navigation Demo 🚀
 
 A complete Flutter application demonstrating combined drawer and bottom navigation patterns with smooth transitions.
-
-![App Screenshot](Screenshot_2025-04-17_222444.png)
-![Drawer Screenshot](Screenshot_2025-04-17_222502.png)
 
 ## Features ✨
 - Dual navigation system (Bottom Bar + Drawer)
